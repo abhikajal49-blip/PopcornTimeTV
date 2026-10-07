@@ -1,0 +1,8 @@
+{
+  "name": "Popcorn Time",
+  "description": "Stream movies and TV shows with torrent health tracking, subtitle selection, and watchlist management",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
